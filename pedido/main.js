@@ -8,7 +8,7 @@ yesButton.addEventListener('click', (event) => {
   if (Top >= 1000) {
     alert('Te amo muito <3 <3 <3')
     alert('Obrigado por ter tido a paciência!')
-    window.open('https://www.youtube.com/watch?v=WYiv3ajC4jI')
+    window.open('https://www.youtube.com/watch?v=gxBW_mxi3wE')
   } else {
     event.preventDefault()
   
